@@ -30,8 +30,8 @@ Tareq Bin Hariz
   [![UpWork](https://img.shields.io/badge/UpWork-14a800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01b01f84f604897150)
   [![Telegram](https://img.shields.io/badge/Telegram-30a3e6?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@tareqbinhariz)
   [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/735696794)
-  [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/assassinx10pro/)
-  [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/channels/@me/assassinx10pro/)
+  [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tareqbinhariz/)
+  [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/channels/@me/tareqbinhariz/)
 
 ### 🛠 &nbsp;Tech Stack
 ![Android Studio](https://img.shields.io/badge/-AndroidStudio-05122A?style=flat&logo=AndroidStudio)&nbsp;

@@ -9,10 +9,20 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20Mobile%20Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
-- 📱 I'm a Mobile Apps Developer
-- 👨‍💻 As an IT student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with Flutter, Dart, Java, and PHP, or anything related to app development.
+Hello, I'm Tareq Bin Hariz and I consider myself a full stack mobile developer using Flutter framework. While I do strive to stay informed about current technologies, I am always open to learn and grow my skills. I believe in working hard and collaborating with others to achieve common goals. I am grateful for the opportunities to build mobile applications that aim to provide a positive user experience. Although I do bring technical expertise and problem-solving skills to the table, I understand that success is a team effort and I always strive to be a valuable member of any project I am a part of.
 
+________________________My Expertise________________________
+
+✅ Flutter
+✅ Dart
+✅ Pure PHP
+✅ Full-Stack Mobile Apps
+✅ MySQL, SqlLite
+✅ Git, GitHub,
+✅ Firebase
+
+Best Regards,
+Tareq Bin Hariz
 
 ### Connect with Me :
 

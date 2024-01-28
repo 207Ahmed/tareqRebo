@@ -28,7 +28,7 @@ Tareq Bin Hariz
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tareq-bin-hariz-0202092b0)
   [![UpWork](https://img.shields.io/badge/UpWork-14a800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01b01f84f604897150)
-  [![Telegram](https://img.shields.io/badge/Telegram-30a3e6?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@tareqbinhariz)
+  [![Telegram](https://img.shields.io/badge/Telegram-30a3e6?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/tareqbinahriz)
   [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/735696794)
   [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tareqbinhariz/)
   [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/channels/@me/tareqbinhariz/)

@@ -20,6 +20,7 @@ ________________________My Expertise________________________
 ✅ MySQL, SqlLite
 ✅ Git, GitHub,
 ✅ Firebase
+✅ Api integration
 
 Best Regards,
 Tareq Bin Hariz

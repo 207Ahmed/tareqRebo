@@ -1,6 +1,6 @@
 
 <h3 align="center">
-  Welcome to Tareq (Abo Hadrem)!
+  Do not play with fire!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 

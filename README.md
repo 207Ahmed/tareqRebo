@@ -1,6 +1,6 @@
 
 <h3 align="center">
-  Welcome to Tareq Bin Hariz's profile!
+  Welcome to Tareq (Abo Hadrem)!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
@@ -15,7 +15,7 @@ ________________________My Expertise________________________
 
 ✅ Flutter
 ✅ Dart
-✅ Pure PHP
+ X Pure PHP
 ✅ Full-Stack Mobile Apps
 ✅ MySQL, SqlLite
 ✅ Git, GitHub,
@@ -47,3 +47,6 @@ Tareq Bin Hariz
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma&logoColor=figma)&nbsp;
 
+
+
+Aben hadrmote hhhhhhhhhhhhhhhhhhhhhhhhhhh!
